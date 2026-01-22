@@ -52,7 +52,7 @@ We may remove User Content that violates these Terms without notice.
 
 ## 3. Privacy
 
-Your privacy is important to us. Our collection and use of your information is described in our Privacy Policy: https://dmoiapp.github.io/dmoi-support/privacy
+Your privacy is important to us. Our collection and use of your information is described in our Privacy Policy: [https://dmoiapp.github.io/dmoi-support/privacy](https://dmoiapp.github.io/dmoi-support/privacy)
 
 ---
 
@@ -146,5 +146,5 @@ Our failure to enforce any right or provision does not constitute a waiver.
 If you have questions about these Terms, please contact us:
 
 **Awake To Tech**  
-Email: dmoihelpdesk928374@gmail.com  
-Website: https://dmoiapp.github.io/dmoi-support
+Email: [dmoihelpdesk928374@gmail.com](mailto:dmoihelpdesk928374@gmail.com)  
+Website: [https://dmoiapp.github.io/dmoi-support](https://dmoiapp.github.io/dmoi-support)

@@ -69,7 +69,7 @@ You have the right to:
 - **Deletion:** Request deletion of your account and data
 - **Opt-out:** Disable notifications in your device settings
 
-To exercise these rights, contact us at dmoihelpdesk928374@gmail.com
+To exercise these rights, contact us at [dmoihelpdesk928374@gmail.com](mailto:dmoihelpdesk928374@gmail.com)
 
 ---
 
@@ -108,8 +108,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have questions about this Privacy Policy, please contact us:
 
 **Awake To Tech**  
-Email: dmoihelpdesk928374@gmail.com  
-Website: https://dmoiapp.github.io/dmoi-support/privacy
+Email: [dmoihelpdesk928374@gmail.com](mailto:dmoihelpdesk928374@gmail.com)  
+Website: [https://dmoiapp.github.io/dmoi-support/privacy](https://dmoiapp.github.io/dmoi-support/privacy)
 
 ---
 
