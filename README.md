@@ -1,16 +1,9 @@
 # DMoi App Support
 
-Welcome to the official support page for the DMoi mobile app.
+This repository hosts the DMoi support site for app store requirements.
 
-**Contact:**  
-For help, feedback, or support, please email: dmoihelpdesk928374@gmail.com
+## Pages
 
-**About DMoi:**  
-DMoi helps you track wedding gifts, manage event expenses, and stay connected with family traditions.
-
----
-
-- For app issues, bug reports, or feature requests, please open an issue or contact us by email.
-- For privacy questions, see our privacy policy in the app.
-
-Thank you for using DMoi!
+- Support: https://dmoiapp.github.io/dmoi-support/
+- Privacy Policy: https://dmoiapp.github.io/dmoi-support/privacy
+- Terms of Service: https://dmoiapp.github.io/dmoi-support/terms
