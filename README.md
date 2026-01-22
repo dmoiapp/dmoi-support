@@ -3,8 +3,7 @@
 Welcome to the official support page for the DMoi mobile app.
 
 **Contact:**  
-For help, feedback, or support, please email: [your-email@example.com]  
-(Replace with your real support email)
+For help, feedback, or support, please email: dmoihelpdesk928374@gmail.com
 
 **About DMoi:**  
 DMoi helps you track wedding gifts, manage event expenses, and stay connected with family traditions.
