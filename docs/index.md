@@ -13,5 +13,6 @@ DMoi helps you track wedding gifts, manage event expenses, and stay connected wi
 - For app issues, bug reports, or feature requests, please open an issue or contact us by email.
 - Privacy Policy: <a href="https://dmoiapp.github.io/dmoi-support/privacy">https://dmoiapp.github.io/dmoi-support/privacy</a>
 - Terms of Service: <a href="https://dmoiapp.github.io/dmoi-support/terms">https://dmoiapp.github.io/dmoi-support/terms</a>
+- Delete Account: <a href="https://dmoiapp.github.io/dmoi-support/delete-account">https://dmoiapp.github.io/dmoi-support/delete-account</a>
 
 Thank you for using DMoi!
